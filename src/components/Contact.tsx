@@ -78,7 +78,7 @@ export function Contact() {
         >
           <div className="flex justify-center gap-6 mb-6">
             <motion.a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/happy_time_vikhroli?igsh=MTZoN3o5cGhkZjBicQ=="
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 bg-yellow-400 rounded-full flex items-center justify-center hover:bg-black transition-colors group"

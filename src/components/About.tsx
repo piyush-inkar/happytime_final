@@ -30,7 +30,7 @@ export function About() {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="mb-4 text-yellow-400">About Happy Times</h2>
+          <h2 className="mb-4 text-yellow-400 text-2xl">About Happy Times</h2>
           <p className="max-w-2xl mx-auto text-gray-300">
              Happy Times has been a beloved destination for food enthusiasts. 
             Our passion for creating memorable dining experiences drives everything we do, 
